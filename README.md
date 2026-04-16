@@ -1,105 +1,166 @@
-# Hi 👋, I'm Samanyu
-### A passionate web and app developer from Hyderabad
+<!-- HERO SECTION -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samanyu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="samanyu-dev" /> </p>
+<h1 align="center">🚀 Samanyu Reddy Allipuram</h1>
+<h3 align="center">AI Engineer • Full Stack Developer • App Developer • System Builder</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+Scalable+Systems;BITS+Pilani+Hyderabad" />
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samanyu-dev&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/samanyu-dev?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/samanyu-dev?style=for-the-badge" />
+</p>
 
-- 🔭 I'm currently working on [Indic LLM Data Collection Corpus app](https://code.swecha.org/telugu-ai/corpus-collection.git)
-- 🌱 I'm currently learning **AI Agents and Building & Training LLM's**
-- 👯 I'm looking to collaborate on [MovieNest](https://github.com/Samanyu-dev/MovieNestApp.git)
-- 💬 Ask me about **React JS, Angular, Flutter and SwiftUI**
-- 📫 How to reach me **f20230910@hyderabad.bits-pilani.ac.in**
+---
 
-###
+<!-- ABOUT -->
 
-## 🛠️ Languages and Tools
+<h2 align="center">🧠 About Me</h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="50" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo"  />
-</div>
+<p align="center">
+🎓 BITS Pilani Hyderabad <br>
+🤖 AI | LLMs | RL | Transformers | GANs <br>
+⚙️ Backend Systems | FastAPI | MongoDB | Docker <br>
+📱 Flutter + SwiftUI Developer <br>
+🚀 Building real-world AI systems end-to-end
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="pytorch logo"  />
-</div>
+---
 
-###
+<!-- TECH STACK -->
 
-## 📊 GitHub Stats
+<h2 align="center">⚡ Tech Stack</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samanyu-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samanyu-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nodejs,fastapi,mongodb,docker,flutter,swift,pytorch,git,linux" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=samanyu-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=samanyu-dev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+<!-- PROJECT SHOWCASE -->
 
-## 🌐 Connect with me
+<h2 align="center">🔥 Featured Projects</h2>
 
-<div align="center">
-  <a href="https://linkedin.com/in/samanyu-reddy-allipuram/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/samanyuuuuu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/someonenew2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://kaggle.com/samanyuallipuram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  />
-  </a>
-  <a href="https://www.leetcode.com/x1-samanyu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/f20230910" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+<table align="center">
+<tr>
+<td width="50%">
+<h3>🚀 Network Performance AI</h3>
+<p>Deep learning models (LSTM, CNN, Transformers, GANs)</p>
+<a href="https://github.com/Samanyu-dev/Network_Performance">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samanyu-dev&repo=Network_Performance&theme=tokyonight" />
+</a>
+</td>
 
-###
+<td width="50%">
+<h3>🧠 Crisis Communication Env</h3>
+<p>Multi-agent simulation for crisis handling</p>
+<a href="https://github.com/Samanyu-dev/crisis_comm_env">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samanyu-dev&repo=crisis_comm_env&theme=tokyonight" />
+</a>
+</td>
+</tr>
 
-## 📈 Contribution Graph
+<tr>
+<td width="50%">
+<h3>🎬 MovieNest</h3>
+<p>AI-powered recommendation system</p>
+<a href="https://github.com/Samanyu-dev/MovieNestApp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samanyu-dev&repo=MovieNestApp&theme=tokyonight" />
+</a>
+</td>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samanyu-dev/samanyu-dev/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samanyu-dev/samanyu-dev/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samanyu-dev/samanyu-dev/output/snake.svg">
-</picture>
+<td width="50%">
+<h3>🤖 Self Driving RL</h3>
+<p>Autonomous driving using RL + behavior cloning</p>
+</td>
+</tr>
+</table>
 
-###
+---
+
+<!-- GITHUB STATS -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samanyu-dev&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanyu-dev&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=samanyu-dev&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samanyu-dev&theme=tokyo-night"/>
+</p>
+
+---
+
+<!-- SNAKE -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/samanyu-dev/samanyu-dev/output/snake.svg"/>
+</p>
+
+---
+
+<!-- EXPERIENCE -->
+
+<h2 align="center">💼 Experience</h2>
+
+<p align="center">
+💻 Full Stack Intern @ Blueberry Digital Labs <br>
+🤖 AI Intern @ Swecha Foundation <br>
+🛠 Backend Developer @ NOSH <br>
+📦 Backend Developer @ Loomlane
+</p>
+
+---
+
+<!-- TROPHIES -->
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+🥇 Meta OpenEnv Hackathon Finalist <br>
+📊 WorldQuant Brain Top 20%
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=samanyu-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<!-- CONNECT -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://linkedin.com/in/samanyu-reddy-allipuram">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://kaggle.com/samanyuallipuram">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+<a href="https://leetcode.com/x1-samanyu">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
+
+---
+
+<!-- FOOTER -->
+
+<h3 align="center">⚡ "Building AI systems that actually work in the real world"</h3>
