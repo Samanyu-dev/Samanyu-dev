@@ -199,27 +199,31 @@
 | 02 | [🌊 Aether_Web](https://github.com/Samanyu-dev/Aether_Web) | Product web interface | TypeScript, Next.js | [![LIVE](https://img.shields.io/badge/LIVE-22D3EE?style=flat-square)](https://aether-dev.vercel.app) |
 | 03 | [🧠 stepsai](https://github.com/Samanyu-dev/stepsai) | AI mock interview system | Python, Next.js | [![LIVE](https://img.shields.io/badge/LIVE-8B5CF6?style=flat-square)](https://stepsai-smoky.vercel.app) |
 | 04 | [🎯 Portfolio](https://github.com/Samanyu-dev/Portfolio) | Interactive portfolio site | TypeScript | [![LIVE](https://img.shields.io/badge/LIVE-F97316?style=flat-square)](https://samanyuallipuram.vercel.app) |
-| 05 | [🔥 codeforge](https://github.com/Samanyu-dev/codeforge) | Multi-agent AI engineering org | TypeScript | [![SPACE](https://img.shields.io/badge/SPACE-FFD21E?style=flat-square)](https://huggingface.co/spaces/Sammy1808/codeforge) |
-| 06 | [🚨 crisis_comm_env](https://github.com/Samanyu-dev/crisis_comm_env) | OpenEnv crisis simulation | Python | [![SPACE](https://img.shields.io/badge/SPACE-FFD21E?style=flat-square)](https://huggingface.co/spaces/Sammy1808/crisis_comm) |
-| 07 | [🔮 oracle-agent](https://github.com/Samanyu-dev/oracle-agent) | A* + Bayesian navigation agent | Python | [![SPACE](https://img.shields.io/badge/SPACE-FFD21E?style=flat-square)](https://huggingface.co/spaces/Sammy1808/oracleagent) |
-| 08 | [👁️ robot_vision](https://github.com/Samanyu-dev/robot_vision) | Robotics + CV simulation | Python | [![LIVE](https://img.shields.io/badge/LIVE-34D399?style=flat-square)](https://robotvision-samanyu.streamlit.app) |
-| 09 | [🤖 robotics](https://github.com/Samanyu-dev/robotics) | Robotics paper solutions | HTML | [![LIVE](https://img.shields.io/badge/LIVE-E11D48?style=flat-square)](https://samanyu-dev.github.io/robotics/) |
-| 10 | [🏏 dream11_ranking](https://github.com/Samanyu-dev/dream11_ranking) | IPL fantasy tracker | HTML, JS | [![LIVE](https://img.shields.io/badge/LIVE-F97316?style=flat-square)](https://samanyu-dev.github.io/dream11_ranking/) |
-| 11 | [📊 dream11_dashboard](https://github.com/Samanyu-dev/dream11_dashboard) | Dashboard experiments | HTML | Source |
-| 12 | [🪷 durgapuja](https://github.com/Samanyu-dev/durgapuja) | AI business management Flutter app | Dart, Flutter | [![RELEASE](https://img.shields.io/badge/RELEASE-A78BFA?style=flat-square)](https://github.com/Samanyu-dev/durgapuja/releases/tag/v1.0.0) |
-| 13 | [🎵 echo](https://github.com/Samanyu-dev/echo) | Event / social app workflows | Dart, Flutter | Source |
-| 14 | [🎬 MovieNestApp](https://github.com/Samanyu-dev/MovieNestApp) | Movie discovery app | Swift, SwiftUI | Source |
-| 15 | [✅ NexTask](https://github.com/Samanyu-dev/NexTask) | Productivity app | Dart | Source |
-| 16 | [⚡ chaos](https://github.com/Samanyu-dev/chaos) | Swift experiments | Swift | Source |
-| 17 | [🎓 popx_educase](https://github.com/Samanyu-dev/popx_educase) | Product UI build | JavaScript | Source |
-| 18 | [🛡️ aegis](https://github.com/Samanyu-dev/aegis) | AI / security experiments | Python | Source |
-| 19 | [🤖 ExecuBot](https://github.com/Samanyu-dev/ExecuBot) | Agentic execution assistant | Mixed | Source |
-| 20 | [📡 Network_Performance](https://github.com/Samanyu-dev/Network_Performance) | Network prediction deep learning | Jupyter Notebook | Source |
-| 21 | [💼 lumyst_internship_task](https://github.com/Samanyu-dev/lumyst_internship_task) | Internship deliverable | HTML | Source |
-| 22 | [⚙️ nosh_api](https://github.com/Samanyu-dev/nosh_api) | Backend API systems | C++ | Source |
-| 23 | [🌐 tutordecentra](https://github.com/Samanyu-dev/tutordecentra) | Decentralized tutoring concept | Mixed | Source |
-| 24 | [🏆 HackInToTheFuture](https://github.com/Samanyu-dev/HackInToTheFuture) | Hackathon archive | HTML | Source |
-| 25 | [📝 Samanyu-dev](https://github.com/Samanyu-dev/Samanyu-dev) | Profile repository | Markdown | 📍 You are here |
+| 05 | [🧲 gomarg](https://github.com/Samanyu-dev/gomarg) | AI SDR + lead-gen automation agent | Python, FastAPI, Next.js, Postgres | Source |
+| 06 | [🛰️ stackmap](https://github.com/Samanyu-dev/stackmap) | Tech stack mapping + product experiments | TypeScript | Source |
+| 07 | [🌀 vortex](https://github.com/Samanyu-dev/vortex) | Internship assessment app | TypeScript | Source |
+| 08 | [🔥 codeforge](https://github.com/Samanyu-dev/codeforge) | Multi-agent AI engineering org | TypeScript, FastAPI, Docker | [![SPACE](https://img.shields.io/badge/SPACE-FFD21E?style=flat-square)](https://huggingface.co/spaces/Sammy1808/codeforge) |
+| 09 | [🚨 crisis_comm_env](https://github.com/Samanyu-dev/crisis_comm_env) | OpenEnv crisis simulation environment | Python, OpenEnv | [![SPACE](https://img.shields.io/badge/SPACE-FFD21E?style=flat-square)](https://huggingface.co/spaces/Sammy1808/crisis_comm) |
+| 10 | [🔮 oracle-agent](https://github.com/Samanyu-dev/oracle-agent) | A* + Bayesian navigation agent | Python | [![SPACE](https://img.shields.io/badge/SPACE-FFD21E?style=flat-square)](https://huggingface.co/spaces/Sammy1808/oracleagent) |
+| 11 | [👁️ robot_vision](https://github.com/Samanyu-dev/robot_vision) | Robotics + CV simulation | Python, OpenCV, Streamlit | [![LIVE](https://img.shields.io/badge/LIVE-34D399?style=flat-square)](https://robotvision-samanyu.streamlit.app) |
+| 12 | [🤖 robotics](https://github.com/Samanyu-dev/robotics) | Robotics paper solutions | HTML | [![LIVE](https://img.shields.io/badge/LIVE-E11D48?style=flat-square)](https://samanyu-dev.github.io/robotics/) |
+| 13 | [🏏 dream11_ranking](https://github.com/Samanyu-dev/dream11_ranking) | IPL fantasy leaderboard tracker | HTML, JavaScript, Supabase | [![LIVE](https://img.shields.io/badge/LIVE-F97316?style=flat-square)](https://samanyu-dev.github.io/dream11_ranking/) |
+| 14 | [📊 dream11_dashboard](https://github.com/Samanyu-dev/dream11_dashboard) | Tournament dashboard experiments | HTML | Source |
+| 15 | [🪷 durgapuja](https://github.com/Samanyu-dev/durgapuja) | AI business management mobile app | Dart, Flutter, Firebase | [![RELEASE](https://img.shields.io/badge/RELEASE-A78BFA?style=flat-square)](https://github.com/Samanyu-dev/durgapuja/releases/tag/v1.0.0) |
+| 16 | [🎵 echo](https://github.com/Samanyu-dev/echo) | Event/social workflow app | Dart, Flutter, Appwrite | Source |
+| 17 | [🎬 MovieNestApp](https://github.com/Samanyu-dev/MovieNestApp) | Movie discovery iOS app | Swift, SwiftUI | Source |
+| 18 | [✅ NexTask](https://github.com/Samanyu-dev/NexTask) | Productivity app prototype | Dart | Source |
+| 19 | [⚡ chaos](https://github.com/Samanyu-dev/chaos) | iOS trip-planner app experiments | Swift | Source |
+| 20 | [🗂️ memento](https://github.com/Samanyu-dev/memento) | iOS app experimentation | Swift | Source |
+| 21 | [🎓 popx_educase](https://github.com/Samanyu-dev/popx_educase) | Product UI/auth assignment | JavaScript, React | Source |
+| 22 | [🛡️ aegis](https://github.com/Samanyu-dev/aegis) | AI + security hackathon project | Python | Source |
+| 23 | [⚡ AIgnition](https://github.com/Samanyu-dev/AIgnition) | Hackathon build sprint project | Python | Source |
+| 24 | [📈 synth](https://github.com/Samanyu-dev/synth) | Internship task build | Python | Source |
+| 25 | [🧮 nomura_quant_challenge_2026](https://github.com/Samanyu-dev/nomura_quant_challenge_2026) | Quant challenge/hackathon submission | Python | Source |
+| 26 | [💼 lumyst_internship_task](https://github.com/Samanyu-dev/lumyst_internship_task) | Internship deliverable | HTML | Source |
+| 27 | [📡 Network_Performance](https://github.com/Samanyu-dev/Network_Performance) | Network performance deep learning | Jupyter Notebook, Python | Source |
+| 28 | [⚙️ nosh_api](https://github.com/Samanyu-dev/nosh_api) | Backend systems/API experimentation | C++ | Source |
+| 29 | [📝 Samanyu-dev](https://github.com/Samanyu-dev/Samanyu-dev) | Profile repository | Markdown | 📍 You are here |
 
 </details>
 
