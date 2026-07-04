@@ -156,6 +156,36 @@
 
 </div>
 
+<div align="center">
+<br/>
+<details>
+<summary><b>🌌 VIEW ADVANCED METRICS & 3D GRAPH (Interactive)</b></summary>
+<br/>
+
+<img src="https://raw.githubusercontent.com/Samanyu-dev/Samanyu-dev/main/profile-3d-contrib/profile-night-view.svg" alt="3d-contrib" width="800" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Samanyu-dev/Samanyu-dev/main/github-metrics.svg" alt="metrics" width="800" />
+
+</details>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════ RECENT ACTIVITY ═══════════════════ -->
+## 📡 RECENT TRANSMISSIONS (ACTIVITY)
+
+<div align="center">
+<pre>
+<!--START_SECTION:activity-->
+Loading recent activity...
+<!--END_SECTION:activity-->
+</pre>
+</div>
+
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
