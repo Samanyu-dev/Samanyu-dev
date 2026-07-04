@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-Loading recent activity...
+1. ℹ️ Labeled PR [#87](https://github.com/SickleFire/m-vis/pull/87) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
 <!--END_SECTION:activity-->
 </pre>
 </div>
