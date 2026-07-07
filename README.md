@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/SickleFire/m-vis/pull/90) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
+1. 🗣 Commented on [#89](https://github.com/SickleFire/m-vis/issues/89#issuecomment-4899737095) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
 <!--END_SECTION:activity-->
 </pre>
 </div>
