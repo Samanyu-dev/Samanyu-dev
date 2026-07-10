@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/SickleFire/m-vis/pull/91) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
+1. ❗ Opened issue [#12](https://github.com/gamesir-labs/gamehub-for-mac/issues/12) in [gamesir-labs/gamehub-for-mac](https://github.com/gamesir-labs/gamehub-for-mac)
 <!--END_SECTION:activity-->
 </pre>
 </div>
