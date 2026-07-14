@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#86](https://github.com/SickleFire/m-vis/issues/86) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
+1. 💪 Opened PR [#93](https://github.com/SickleFire/m-vis/pull/93) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
 <!--END_SECTION:activity-->
 </pre>
 </div>
