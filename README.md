@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/SickleFire/m-vis/issues/94#issuecomment-5003110957) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
+1. 🎉 Merged PR [#29](https://github.com/GoMarg/gmleads-dashboard/pull/29) in [GoMarg/gmleads-dashboard](https://github.com/GoMarg/gmleads-dashboard)
 <!--END_SECTION:activity-->
 </pre>
 </div>
