@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/GoMarg/gmleads-dashboard/issues/3) in [GoMarg/gmleads-dashboard](https://github.com/GoMarg/gmleads-dashboard)
+1. 🎉 Merged PR [#55](https://github.com/GoMarg/gmleads-dashboard/pull/55) in [GoMarg/gmleads-dashboard](https://github.com/GoMarg/gmleads-dashboard)
 <!--END_SECTION:activity-->
 </pre>
 </div>
