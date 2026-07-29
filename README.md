@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/SickleFire/m-vis/issues/94#issuecomment-5092663807) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
+1. 🚀 Published release [v2.1.1](https://github.com/GoMarg/gmleads-sdk/releases/tag/v2.1.1) in [GoMarg/gmleads-sdk](https://github.com/GoMarg/gmleads-sdk)
 <!--END_SECTION:activity-->
 </pre>
 </div>
