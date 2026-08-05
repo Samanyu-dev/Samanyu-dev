@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.1](https://github.com/GoMarg/gmleads-sdk/releases/tag/v2.1.1) in [GoMarg/gmleads-sdk](https://github.com/GoMarg/gmleads-sdk)
+1. 🗣 Commented on [#11](https://github.com/Sanket-sourav/FACE_ID/issues/11#issuecomment-5188915167) in [Sanket-sourav/FACE_ID](https://github.com/Sanket-sourav/FACE_ID)
 <!--END_SECTION:activity-->
 </pre>
 </div>
