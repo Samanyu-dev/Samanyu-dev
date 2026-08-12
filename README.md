@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Sanket-sourav/FACE_ID/issues/11#issuecomment-5188915167) in [Sanket-sourav/FACE_ID](https://github.com/Sanket-sourav/FACE_ID)
+1. 🎉 Merged PR [#2](https://github.com/GoMarg/gmleads-demo/pull/2) in [GoMarg/gmleads-demo](https://github.com/GoMarg/gmleads-demo)
 <!--END_SECTION:activity-->
 </pre>
 </div>
