@@ -27,12 +27,12 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  UNIT     :  Samanyu Reddy Allipuram                        ║
-║  CLASS    :  AI Engineer / Full Stack / App Developer        ║
-║  LOCATION :  Hyderabad, India  🇮🇳                          ║
+║  UNIT     :  Samanyu Reddy Allipuram                         ║
+║  CLASS    :  AI Engineer / ML Engineer / App Developer /     ║
+║  LOCATION :  Hyderabad, India                                ║
 ║  MISSION  :  Ship production AI — fast, reliable, beautiful  ║
 ║  STYLE    :  Backend depth · Frontend polish · Agent tracing ║
-║  STATUS   :  [ ██████████ ] FULLY OPERATIONAL               ║
+║  STATUS   :  [ ██████████ ] FULLY OPERATIONAL                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
