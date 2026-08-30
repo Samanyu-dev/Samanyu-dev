@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/Samanyu-dev/glimmer-journal/issues/83#issuecomment-5466253138) in [Samanyu-dev/glimmer-journal](https://github.com/Samanyu-dev/glimmer-journal)
+1. ❗ Opened issue [#157](https://github.com/Samanyu-dev/glimmer-journal/issues/157) in [Samanyu-dev/glimmer-journal](https://github.com/Samanyu-dev/glimmer-journal)
 <!--END_SECTION:activity-->
 </pre>
 </div>
