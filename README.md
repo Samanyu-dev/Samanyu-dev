@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/SickleFire/m-vis/pull/113) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
+1. 🗣 Commented on [#83](https://github.com/Samanyu-dev/glimmer-journal/issues/83#issuecomment-5466253138) in [Samanyu-dev/glimmer-journal](https://github.com/Samanyu-dev/glimmer-journal)
 <!--END_SECTION:activity-->
 </pre>
 </div>
