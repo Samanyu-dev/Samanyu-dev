@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/SickleFire/m-vis/pull/113) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
+1. 💪 Opened PR [#3](https://github.com/zordhalo/runs-on.dev/pull/3) in [zordhalo/runs-on.dev](https://github.com/zordhalo/runs-on.dev)
 <!--END_SECTION:activity-->
 </pre>
 </div>
