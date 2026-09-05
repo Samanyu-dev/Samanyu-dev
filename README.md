@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/zordhalo/runs-on.dev/pull/3) in [zordhalo/runs-on.dev](https://github.com/zordhalo/runs-on.dev)
+1. 🚀 Published release [v1.2.3](https://github.com/Samanyu-dev/pr-preflight/releases/tag/v1.2.3) in [Samanyu-dev/pr-preflight](https://github.com/Samanyu-dev/pr-preflight)
 <!--END_SECTION:activity-->
 </pre>
 </div>
