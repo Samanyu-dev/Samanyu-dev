@@ -181,7 +181,7 @@
 <div align="center">
 <pre>
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/Samanyu-dev/pr-preflight/issues/25) in [Samanyu-dev/pr-preflight](https://github.com/Samanyu-dev/pr-preflight)
+1. 🎉 Merged PR [#94](https://github.com/zordhalo/runs-on.dev/pull/94) in [zordhalo/runs-on.dev](https://github.com/zordhalo/runs-on.dev)
 <!--END_SECTION:activity-->
 </pre>
 </div>
