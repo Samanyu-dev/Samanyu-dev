@@ -198,7 +198,7 @@ this is me, in web form
 ### 📮 recent transmission
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/zordhalo/runs-on.dev/pull/94) in [zordhalo/runs-on.dev](https://github.com/zordhalo/runs-on.dev)
+1. 💪 Opened PR [#1](https://github.com/Samanyu-dev/gridlock/pull/1) in [Samanyu-dev/gridlock](https://github.com/Samanyu-dev/gridlock)
 <!--END_SECTION:activity-->
 
 <sub>this list refreshes itself every 30 minutes via GitHub Actions</sub>
