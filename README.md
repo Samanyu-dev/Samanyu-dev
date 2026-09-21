@@ -198,7 +198,7 @@ this is me, in web form
 ### 📮 recent transmission
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Samanyu-dev/gridlock/pull/1) in [Samanyu-dev/gridlock](https://github.com/Samanyu-dev/gridlock)
+1. 🔒 Closed issue [#6](https://github.com/Samanyu-dev/infra-incident-copilot/issues/6) in [Samanyu-dev/infra-incident-copilot](https://github.com/Samanyu-dev/infra-incident-copilot)
 <!--END_SECTION:activity-->
 
 <sub>this list refreshes itself every 30 minutes via GitHub Actions</sub>
