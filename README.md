@@ -198,7 +198,7 @@ this is me, in web form
 ### 📮 recent transmission
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/Samanyu-dev/infra-incident-copilot/issues/6) in [Samanyu-dev/infra-incident-copilot](https://github.com/Samanyu-dev/infra-incident-copilot)
+1. 🗣 Commented on [#115](https://github.com/SickleFire/m-vis/issues/115#issuecomment-5894105330) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
 <!--END_SECTION:activity-->
 
 <sub>this list refreshes itself every 30 minutes via GitHub Actions</sub>
