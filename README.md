@@ -198,7 +198,7 @@ this is me, in web form
 ### 📮 recent transmission
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/SickleFire/m-vis/issues/115#issuecomment-5894105330) in [SickleFire/m-vis](https://github.com/SickleFire/m-vis)
+1. ℹ️ Assigned PR [#59](https://github.com/Samanyu-dev/pokercfr/pull/59) in [Samanyu-dev/pokercfr](https://github.com/Samanyu-dev/pokercfr)
 <!--END_SECTION:activity-->
 
 <sub>this list refreshes itself every 30 minutes via GitHub Actions</sub>
