@@ -198,7 +198,7 @@ this is me, in web form
 ### 📮 recent transmission
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#59](https://github.com/Samanyu-dev/pokercfr/pull/59) in [Samanyu-dev/pokercfr](https://github.com/Samanyu-dev/pokercfr)
+1. 🗣 Commented on [#62](https://github.com/Samanyu-dev/pokercfr/pull/62#issuecomment-6977449950) in [Samanyu-dev/pokercfr](https://github.com/Samanyu-dev/pokercfr)
 <!--END_SECTION:activity-->
 
 <sub>this list refreshes itself every 30 minutes via GitHub Actions</sub>
