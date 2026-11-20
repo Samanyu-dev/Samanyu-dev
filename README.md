@@ -63,7 +63,7 @@ Hi 👋, I am **Samanyu**, an ambitious AI and software engineer. I build LLM ag
 ### 📮 Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/Samanyu-dev/pokercfr/pull/62#issuecomment-6977449950) in [Samanyu-dev/pokercfr](https://github.com/Samanyu-dev/pokercfr)
+1. 🗣 Commented on [#62](https://github.com/AI-Projects-S1-26-27/T29_pokercfr/pull/62#issuecomment-6977449950) in [AI-Projects-S1-26-27/T29_pokercfr](https://github.com/AI-Projects-S1-26-27/T29_pokercfr)
 <!--END_SECTION:activity-->
 
 <details>
